@@ -10,7 +10,7 @@ assim executando sua Main e iniciando o jogo.
 
 - **Padrões**: Singleton, Iterator, Command e Facade.
 
-- **Classes e Métodos afetados**:
+- **Classe(s) e Método(s) afetado(s)**:
   - **Singleton**:
     - **Classe(s)**: Snake, Game e Window.
     - **Método(s)**: Game.initGame() e Window.initAndStart().
